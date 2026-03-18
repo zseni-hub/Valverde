@@ -1,0 +1,18 @@
+#mancityvsrealmadrid{
+    width: 50%;
+    height: auto;
+    margin: auto;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-size: large;
+}
+body{
+    background-color: rgb(255, 225, 185);
+}
